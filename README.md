@@ -1,11 +1,14 @@
 # CodePlayer Simple Web Page
-CodePlayer create a simple web page project. Made with HTML and CSS.
+A simple web page with some text and a background image
+
+## Tech Stack
+- HTML
+- CSS
 
 ## Instructions
-Clone or download zip file. Open index.html file in your browser.
-
-## Contributing
-This repository is based on starter code from TheCodePlayer.com. Therefore I will not be accepting any pull requests.
+1. Clone or download zip file. 
+2. Open index.html file in your browser.
+3. A headline will be at the top of the page with some text underneath. The page will have a background image.
 
 ## Acknowledgements
 * TheCodePlayer.com
